@@ -32,3 +32,10 @@ h2 {
 p {
   color: #555;
 }
+
+.tile { 
+  border: 3px solid white; 
+} 
+img:hover { 
+  border: 3px solid black; 
+} 
