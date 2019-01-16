@@ -33,9 +33,9 @@ p {
   color: #555;
 }
 
-.tile { 
+.single_tile { 
   border: 3px solid white; 
 } 
-img:hover { 
+.single_tile:hover { 
   border: 3px solid black; 
 } 
